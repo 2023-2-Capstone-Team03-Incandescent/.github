@@ -5,7 +5,11 @@
 <div align="center">
     <h2>우리 댕댕이 봤어요?</h2>
     반려동물 산책 게임 애플리케이션
+    <br><br>
+    <h4><code><a href="https://github.com/2023-2-Capstone-Team03-Incandescent/woodaeng-app/" target="_blank" title="App Repo"> 📱App </a></code>
+    <code><a href="https://github.com/2023-2-Capstone-Team03-Incandescent/woodaeng-server/" target="_blank" title="Server Repo"> 💻Server </a></code></h4>
 </div>
+
 <br>
 
 ## 📋 프로젝트 소개
