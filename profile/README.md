@@ -51,7 +51,7 @@
 
 ## :tv: 데모 영상
 
-[![우리 댕댕이 봤어요? 데모 영상](https://youtu.be/5L6Vr1f91Fg)
+[![우리 댕댕이 봤어요? 데모 영상](http://img.youtube.com/vi/5L6Vr1f91Fg/0.jpg)](https://youtu.be/5L6Vr1f91Fg)
 <br>
 
 ## ⚙ 실행 방법
