@@ -24,8 +24,8 @@
 
 | <img alt="홍우석" src="https://avatars.githubusercontent.com/u/153263048?v=4" height="50"/> | <img alt="이가은" src="https://avatars.githubusercontent.com/u/87005562?v=4" height="50"/> | <img alt="홍석우" src="https://avatars.githubusercontent.com/u/127665187?s=96&v=4" height="50"/> |
 | :----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: |
-|                            [홍우석](https://github.com/jjonyo)                             |                          [이가은](https://github.com/jhyoon9705)                           |                          [홍석우](https://github.com//jjjuurang)                           |
-|                                        UI + Frontend                                       |                                          Backend                                          |                                         Frontend                                         |
+|                            [홍우석](https://github.com/hongwoosa)                            |                            [이가은](https://github.com/tthisag246)                            |                            [홍석우](https://github.com/CAUseokwoo)                            |
+|                            UI + Frontend                            |                            Backend                            |                            Frontend                            |
 
 <br>
 
