@@ -45,11 +45,11 @@
 <br>
 
 ## 🖥 결과물
-<img src="https://github.com/2023-2-Capstone-Team03-Incandescent/.github/assets/153263048/4743fd79-784e-41ff-869c-466cb1aafa1a" width="30%" height="10%">
-<img src="https://github.com/2023-2-Capstone-Team03-Incandescent/.github/assets/153263048/60cceeef-a0e7-41cf-b08e-8521c05de048" width="30%" height="30%">
-<img src="https://github.com/2023-2-Capstone-Team03-Incandescent/.github/assets/153263048/759e1724-aee3-4068-83d2-18738ecf1667" width="30%" height="30%">
-<img src="https://github.com/2023-2-Capstone-Team03-Incandescent/.github/assets/153263048/3c4ba9c6-faac-4b24-b601-8f320a89a140" width="30%" height="30%">
-<img src="https://github.com/2023-2-Capstone-Team03-Incandescent/.github/assets/153263048/ac164813-1e1c-4422-bf91-840233ef8168" width="30%" height="30%">
+<img src="https://github.com/2023-2-Capstone-Team03-Incandescent/.github/assets/153263048/4743fd79-784e-41ff-869c-466cb1aafa1a" width="19%">
+<img src="https://github.com/2023-2-Capstone-Team03-Incandescent/.github/assets/153263048/60cceeef-a0e7-41cf-b08e-8521c05de048" width="19%">
+<img src="https://github.com/2023-2-Capstone-Team03-Incandescent/.github/assets/153263048/759e1724-aee3-4068-83d2-18738ecf1667" width="19%">
+<img src="https://github.com/2023-2-Capstone-Team03-Incandescent/.github/assets/153263048/3c4ba9c6-faac-4b24-b601-8f320a89a140" width="19%">
+<img src="https://github.com/2023-2-Capstone-Team03-Incandescent/.github/assets/153263048/ac164813-1e1c-4422-bf91-840233ef8168" width="19%">
 
 
 <br />
@@ -59,7 +59,8 @@
 [![우리 댕댕이 봤어요? 데모 영상](http://img.youtube.com/vi/5L6Vr1f91Fg/0.jpg)](https://youtu.be/5L6Vr1f91Fg)
 <br>
 
-## ⚙ 실행 방법
+## ⚙ 앱 실행 방법
+
 1. apk 빌드
 Android Studio -> Build -> Flutter -> Build APK
 
