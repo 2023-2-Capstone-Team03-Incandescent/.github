@@ -60,5 +60,10 @@
 <br>
 
 ## ⚙ 실행 방법
+1. apk 빌드
+Android Studio -> Build -> Flutter -> Build APK
 
-ㅇㅇㅇㅇ
+2. 빌드 경로
+[Project Forder]/build/app/outputs/apk/release/app-release.apk
+
+3. 해당 apk 설치 후 실행
