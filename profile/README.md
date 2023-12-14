@@ -51,6 +51,13 @@
 <img src="https://github.com/2023-2-Capstone-Team03-Incandescent/.github/assets/153263048/3c4ba9c6-faac-4b24-b601-8f320a89a140" width="19%">
 <img src="https://github.com/2023-2-Capstone-Team03-Incandescent/.github/assets/153263048/ac164813-1e1c-4422-bf91-840233ef8168" width="19%">
 
+- 어플 첫 실행시 인트로 페이지
+
+<img src="https://github.com/2023-2-Capstone-Team03-Incandescent/.github/assets/153263048/51e36a31-be32-4b2c-9197-b120e82736bb" width="19%">
+<img src="https://github.com/2023-2-Capstone-Team03-Incandescent/.github/assets/153263048/8368ab0a-7406-4c17-8d94-14e4dd60159c" width="19%">
+<img src="https://github.com/2023-2-Capstone-Team03-Incandescent/.github/assets/153263048/a98ee21f-c29d-4d9a-b06e-06c50d7181b0" width="19%">
+
+- 게임 매칭 -> 시작 -> 일반 원판 획득
 
 <br />
 
